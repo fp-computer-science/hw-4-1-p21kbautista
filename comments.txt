@@ -1,0 +1,5 @@
+Question 2
+You should be checking if the sum is greater than 21.
+
+Question 3
+You are not checking if the number is a multiple correctly. You should be printing if the number is or is not a multiple.
